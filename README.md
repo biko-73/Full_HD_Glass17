@@ -1,6 +1,7 @@
 # Full_HD_Glass17
 Skin for enigma by shamann
 update to last relase is available online
+supported image ---- (open pli, open atv, vti, Black Hole)
 
              ************************************************************
                              
