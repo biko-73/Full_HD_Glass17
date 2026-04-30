@@ -4,6 +4,13 @@ update to last relase is available online
 supported image ---- (open pli, open atv, vti, Black Hole)
 
              ************************************************************
+supported site
+    "https://sat-forum.net/viewtopic.php?t=5842",
+    "https://www.satsupreme.com/showthread.php/456728",
+    "https://multicsturk.com/threads/full-hd-glass-17.729/"
+    "https://www.tunisia-sat.com/forums/threads/3638744/page-8"
+
+             ************************************************************
                              
 <img src="https://i.ibb.co/HfjX717g/00.jpg" alt="00" border="0">
 
