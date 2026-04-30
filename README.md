@@ -1,9 +1,12 @@
 # Full_HD_Glass17
 Skin for enigma by shamann
+update to last relase is available online
 
+             ************************************************************
+                             
 <img src="https://i.ibb.co/HfjX717g/00.jpg" alt="00" border="0">
 
-                             ******************************
+             ************************************************************
 To display Picon
 
 <img src="https://i.ibb.co/BHn5KBcN/1.jpg" alt="1" border="0">
@@ -13,7 +16,7 @@ To display Picon
 <img src="https://i.ibb.co/4w1Fr1nx/5-1.jpg" alt="5 1" border="0">
 <img src="https://i.ibb.co/S4yLC7Zd/5-2.jpg" alt="5 2" border="0">
 
-                             ******************************
+             ************************************************************
                              
 if channels menu not display as defualt try 
 
