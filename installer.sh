@@ -1,8 +1,8 @@
 #!/bin/sh
 ########################################################################################################################
 PACKAGE_DIR='Full_HD_Glass17/raw/main/'
-MY_IPK="enigma2-skin-fullhdglass17_9.16_all.ipk"
-MY_DEB="enigma2-skin-fullhdglass17_9.16_all.deb"
+MY_IPK="enigma2-skin-fullhdglass17_9.50_all.ipk"
+MY_DEB="enigma2-skin-fullhdglass17_9.50_all.deb"
 ########################################################################################################################
 MY_MAIN_URL="https://github.com/biko-73/"
 if which dpkg > /dev/null 2>&1; then
@@ -45,7 +45,7 @@ if [ -f $MY_TMP_FILE ]; then
 	echo ''
 	if [ $MY_RESULT -eq 0 ]; then
         echo "########################################################################"
-        echo "#            Full_HD_Glass17 V9.16 INSTALLED SUCCESSFULLY              #"
+        echo "#            Full_HD_Glass17 V9.50 INSTALLED SUCCESSFULLY              #"
         echo "#                          BY Biko - support on                        #"
         echo "#              https://www.tunisia-sat.com/forums/forums               #"
         echo "########################################################################"
