@@ -4,6 +4,10 @@ update to last relase is available online
 supported image ---- (open pli, open atv, vti, Black Hole)
 
              ************************************************************
+telnet code
+"wget https://raw.githubusercontent.com/biko-73/Full_HD_Glass17/main/installer.sh -O - | /bin/sh"
+            *************************************************************
+            
 supported site
     "https://sat-forum.net/viewtopic.php?t=5842",
     "https://www.satsupreme.com/showthread.php/456728",
